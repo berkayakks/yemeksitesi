@@ -12542,11 +12542,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\berka\\Desktop\\internet sitesi\\internet sitesi.csproj",
+      "projectUniqueName": "C:\\Users\\berka\\OneDrive\\Belgeler\\GitHub\\yemeksitesi\\internet sitesi.csproj",
       "projectName": "internet sitesi",
-      "projectPath": "C:\\Users\\berka\\Desktop\\internet sitesi\\internet sitesi.csproj",
+      "projectPath": "C:\\Users\\berka\\OneDrive\\Belgeler\\GitHub\\yemeksitesi\\internet sitesi.csproj",
       "packagesPath": "C:\\Users\\berka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\berka\\Desktop\\internet sitesi\\obj\\",
+      "outputPath": "C:\\Users\\berka\\OneDrive\\Belgeler\\GitHub\\yemeksitesi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
