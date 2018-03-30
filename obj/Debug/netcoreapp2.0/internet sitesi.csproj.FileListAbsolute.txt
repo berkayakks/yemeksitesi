@@ -1,0 +1,10 @@
+C:\Users\berka\Desktop\internet sitesi\bin\Debug\netcoreapp2.0\internet sitesi.deps.json
+C:\Users\berka\Desktop\internet sitesi\bin\Debug\netcoreapp2.0\internet sitesi.runtimeconfig.json
+C:\Users\berka\Desktop\internet sitesi\bin\Debug\netcoreapp2.0\internet sitesi.runtimeconfig.dev.json
+C:\Users\berka\Desktop\internet sitesi\bin\Debug\netcoreapp2.0\internet sitesi.dll
+C:\Users\berka\Desktop\internet sitesi\bin\Debug\netcoreapp2.0\internet sitesi.pdb
+C:\Users\berka\Desktop\internet sitesi\obj\Debug\netcoreapp2.0\internet sitesi.csproj.CoreCompileInputs.cache
+C:\Users\berka\Desktop\internet sitesi\obj\Debug\netcoreapp2.0\internet sitesi.AssemblyInfoInputs.cache
+C:\Users\berka\Desktop\internet sitesi\obj\Debug\netcoreapp2.0\internet sitesi.AssemblyInfo.cs
+C:\Users\berka\Desktop\internet sitesi\obj\Debug\netcoreapp2.0\internet sitesi.dll
+C:\Users\berka\Desktop\internet sitesi\obj\Debug\netcoreapp2.0\internet sitesi.pdb
